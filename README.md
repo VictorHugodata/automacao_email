@@ -1,4 +1,5 @@
-📧 Sistema de Automação de E-mail para Novos Leads
+# 📧 Sistema de Automação de E-mail para Novos Leads
+
 Este projeto é um sistema de automação que envia uma notificação personalizada por e-mail ao cliente sempre que um novo lead é registrado. O diferencial desta solução é a integração entre um banco de dados MySQL, Google Sheets e envio automático de e-mails.
 
 🔗 Como Funciona
