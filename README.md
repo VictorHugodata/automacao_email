@@ -2,6 +2,7 @@
 
 Este projeto é um sistema de automação que envia uma notificação personalizada por e-mail ao cliente sempre que um novo lead é registrado. O diferencial desta solução é a integração entre um banco de dados MySQL, Google Sheets e envio automático de e-mails.
 #### Obs: Esse sistema foi produzido para uma empresa no ramo da saúde! 
+#### Obs 2: Está dando erro, porque eu não preenchi com nenhum dado de nenhum banco de dados, se você preencher e deixar rodando na sua maquina local, irá funcionar 100%! 
 
 ## 🔗 Como Funciona
 Os leads são armazenados em um banco de dados MySQL
